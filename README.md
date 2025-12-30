@@ -26,6 +26,3 @@
 - Add without '+' operator
 - Embedded-safe bit macros
 -
-## 📌 Author
-**Haritha**  
-(Embedded Systems & GATE EE Aspirant)
