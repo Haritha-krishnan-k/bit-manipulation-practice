@@ -1,19 +1,3 @@
-# Bit Manipulation in Embedded C
-
-This repository contains a structured 5-day practice set on **bit manipulation in C**, designed for:
-- Embedded systems
-- STM32 / microcontroller programming
-- GATE (EE / EC)
-- Core embedded interviews
-
-## 📌 Why Bit Manipulation?
-Bit manipulation is essential for:
-- Register-level programming
-- Efficient memory usage
-- Interrupt and peripheral control
-- Low-level optimization
-
----
 
 ## 📅 5-Day Learning Plan
 
@@ -41,33 +25,4 @@ Bit manipulation is essential for:
 - Signed overflow detection
 - Add without '+' operator
 - Embedded-safe bit macros
-
----
-
-## 🧠 Concepts Covered
-- AND, OR, XOR, NOT
-- Bit masking
-- Shifting
-- Two’s complement
-- Embedded register operations
-
----
-
-## 🛠 Tools Used
-- Language: C
-- Compiler: GCC
-- Platform: Linux / Embedded Systems
-
----
-
-## 🎯 Target Audience
-- Embedded systems learners
-- STM32 beginners
-- GATE aspirants (EE/EC)
-- Firmware interview preparation
-
----
-
-## 📌 Author
-**Haritha**  
-(Embedded Systems & GATE EE Aspirant)
+-
