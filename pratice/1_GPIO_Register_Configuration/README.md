@@ -1,0 +1,3 @@
+GPIO Register Configuration (Embedded + Bits + Volatile)
+
+You are working on an ARM-based microcontroller where a 32-bit GPIO control register is memory-mapped. Each bit in this register controls a different pin mode. One of the pins is currently configured as input, and you are asked to configure only that pin as output without affecting the configuration of the remaining pins. Explain how you would read the register, modify only the required bit, and write it back. Also explain why bit masking is required and why the register variable must be declared as volatile.

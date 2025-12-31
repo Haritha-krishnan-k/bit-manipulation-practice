@@ -1,0 +1,3 @@
+Power Optimization Using Bit Operations
+
+In a low-power embedded system, the firmware frequently checks whether a given integer configuration value represents a valid power-of-two buffer size. Explain how you would perform this check using bitwise operations instead of loops or arithmetic functions. Discuss why this approach is preferred in real-time systems and how edge cases like zero or negative numbers should be handled.

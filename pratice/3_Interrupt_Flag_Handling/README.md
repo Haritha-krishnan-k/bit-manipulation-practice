@@ -1,0 +1,3 @@
+Interrupt Flag Handling
+
+An interrupt status register contains multiple interrupt flags, each represented by a single bit. When an interrupt occurs, multiple flags may be set simultaneously. You are required to process only the highest-priority interrupt, clear its corresponding flag, and leave all other flags untouched. Explain how you would identify the rightmost set bit, determine its position, and clear only that specific bit using bitwise operations.
